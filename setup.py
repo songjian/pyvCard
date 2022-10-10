@@ -4,7 +4,7 @@ with open("README.md", "r", encoding='utf-8') as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="telegram-contacts",
+    name="vCard",
     version="0.0.1",
     author="sj",
     author_email="songjian@codeorder.cn",
