@@ -11,7 +11,7 @@ setuptools.setup(
     description="Python操作Android手机联系人的包。",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/songjian/vCard",
+    url="https://github.com/songjian/py-vCard",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
